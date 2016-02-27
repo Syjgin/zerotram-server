@@ -1,1 +1,1 @@
-zerotram-server
+Rest API server for Zerotram game
