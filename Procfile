@@ -1,1 +1,1 @@
-web:    main -p 8080 
+web:    main 
